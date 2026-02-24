@@ -16,9 +16,12 @@ target_compile_options(turtlepreter PRIVATE
     -std=c++20
 )
 
+find_package(OpenGL REQUIRED)
+
 target_link_libraries(turtlepreter PRIVATE
     friimgui
     heap
+    OpenGL::GL
 )
 
 

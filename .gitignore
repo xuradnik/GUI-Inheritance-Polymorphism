@@ -3,7 +3,6 @@
 cmake-build-*/
 build/
 bin/
-lib/
 
 # --- IDE Settings ---
 .idea/
