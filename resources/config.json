@@ -1,0 +1,8 @@
+{
+"imageTurtle": "turtlepreter\\resources\\turtle.png",
+"imageRunner": "turtlepreter\\resources\\runner.png",
+"imageSwimmer": "turtlepreter\\resources\\swimmer.png",
+"imageTortoise": "turtlepreter\\resources\\tortoise.png",
+"width": 1280,
+"height": 720
+}
